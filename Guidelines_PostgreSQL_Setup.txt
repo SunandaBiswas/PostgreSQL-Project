@@ -1,0 +1,3 @@
+1. Download PostgreSQL updated version from https://www.postgresql.org/ 
+2. Setup GUI using pgAdmin4. https://www.pgadmin.org/
+3. Follow proper steps while importing/ exporting any files, convert in proper method to make it successful. 
